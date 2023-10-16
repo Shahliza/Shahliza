@@ -1,5 +1,5 @@
 
-<h3 align="center">A senor lecturer from Universiti Teknologi Malaysia</h3>
+<h3 align="center">A senior lecturer from Universiti Teknologi Malaysia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
